@@ -10,7 +10,7 @@ Also check out https://opensustain.tech for more open sustainability software.
 * [Material Flow Analysis](#material-flow-analysis)
 * [Industrial Symbiosis / Eco-Industrial Parks](#industrial-symbiosis--eco-industrial-parks)
 * [Collaboration initiatives and data sharing platforms](#Collaboration-initiatives-and-data-sharing-platforms)
-* [AI resources](#AI-resources)
+* [AI resources](#Artificial-Intelligence-resources)
 * [Miscellaneous](#miscellaneous)
 * [Models from other commmunities](#Models-from-other-communities)
 
@@ -238,7 +238,9 @@ BONSAI (Big Open Network for Sustainability Assessment Information) is an open p
 
 So far it contains approximaterly 300 material intensity datasets in kg/m2. This project is designed to be colaborative and should be extended to other material intensity data, e.g. for roads, infrastructure, etc. in the future. _Please consider contributing your MI data, code, or further analysis!_
 
-## <a name="AI-resources"></a> Artificial Intelligence resources
+## Artificial Intelligence resources
+
+[IE_ML_mapping](https://github.com/CIRAIG/IE_ML_mapping) is a Python module relying on machine learning to automatically create mappings between different classifications used within the Industrial ecology community. 24 classifications are covered so far, spanning from databases (ecoinvent, exiobase, etc.) to life cycle impact assessment methods (IW+, UseTox, EF, etc.) to product/industry classifications (CPC, NAICS, etc.)
 
 ## <a name="miscellaneous"></a> Miscellaneous 
 
@@ -256,8 +258,6 @@ The country converter (coco) - a Python package for converting country names bet
 
 [konstantinstadler/sci_python_template](https://github.com/konstantinstadler/sci_python_template) - 
 Python template for scientific scripts
-
-[IE_ML_mapping](https://github.com/CIRAIG/IE_ML_mapping) is a Python module relying on machine learning to automatically create mappings between different classifications used within the Industrial ecology community. 24 classifications are covered so far, spanning from databases (ecoinvent, exiobase, etc.) to life cycle impact assessment methods (IW+, UseTox, EF, etc.) to product/industry classifications (CPC, NAICS, etc.)
 
 
 ## <a name="Models-from-other-communities"></a> Models from other communities
