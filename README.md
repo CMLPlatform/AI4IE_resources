@@ -237,6 +237,8 @@ BONSAI (Big Open Network for Sustainability Assessment Information) is an open p
 
 So far it contains approximaterly 300 material intensity datasets in kg/m2. This project is designed to be colaborative and should be extended to other material intensity data, e.g. for roads, infrastructure, etc. in the future. _Please consider contributing your MI data, code, or further analysis!_
 
+## <a name="Artificial Intelligence resources"></a> Artificial Intelligence resources
+
 ## <a name="miscellaneous"></a> Miscellaneous 
 
 [simschul/disaggR](https://github.com/simschul/disaggR) - 
