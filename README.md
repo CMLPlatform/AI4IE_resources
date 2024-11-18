@@ -104,11 +104,6 @@ Lcopt (**L**ife **C**ycle **opt**ions appraisal) is an LCA foreground modelling 
 * [Source code (published version)](https://github.com/pjamesjoyce/lcopt)
 * [Source code (development version)](https://github.com/pjamesjoyce/lcopt/tree/development) - new features (including faster calculation, mass flow sankey diagram, import of existing models as `BW2Package` file) added, with more [in the works](https://github.com/pjamesjoyce/lcopt/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
 
-
-#### Lcopt-cv
-
-[Lcopt-cv](https://github.com/pjamesjoyce/lcopt_cv) is an experimental piece of software which lets you take a photo of a hand-drawn process flow chart and, using computer vision techniques, automatically turns it into a working LCA foreground model. The LCA model it generates can be visualised/edited in [lcopt](http://lcopt.readthedocs.io) and analysed using [Brightway2](http://brightwaylca.org/).
-
 #### LiSET
 [majeau-bettez/LiSET](https://github.com/majeau-bettez/LiSET) -
 Python-module with clustering tools for the Lifecycle Screening of Emerging Technology (LiSET) framework
@@ -241,6 +236,10 @@ So far it contains approximaterly 300 material intensity datasets in kg/m2. This
 ## Artificial Intelligence resources
 
 [IE_ML_mapping](https://github.com/CIRAIG/IE_ML_mapping) is a Python module relying on machine learning to automatically create mappings between different classifications used within the Industrial ecology community. 24 classifications are covered so far, spanning from databases (ecoinvent, exiobase, etc.) to life cycle impact assessment methods (IW+, UseTox, EF, etc.) to product/industry classifications (CPC, NAICS, etc.)
+
+#### Lcopt-cv
+
+[Lcopt-cv](https://github.com/pjamesjoyce/lcopt_cv) is an experimental piece of software which lets you take a photo of a hand-drawn process flow chart and, using computer vision techniques, automatically turns it into a working LCA foreground model. The LCA model it generates can be visualised/edited in [lcopt](http://lcopt.readthedocs.io) and analysed using [Brightway2](http://brightwaylca.org/).
 
 ## <a name="miscellaneous"></a> Miscellaneous 
 
