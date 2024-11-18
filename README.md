@@ -10,6 +10,7 @@ Also check out https://opensustain.tech for more open sustainability software.
 * [Material Flow Analysis](#material-flow-analysis)
 * [Industrial Symbiosis / Eco-Industrial Parks](#industrial-symbiosis--eco-industrial-parks)
 * [Collaboration initiatives and data sharing platforms](#Collaboration-initiatives-and-data-sharing-platforms)
+* [AI resources](#AI-resources)
 * [Miscellaneous](#miscellaneous)
 * [Models from other commmunities](#Models-from-other-communities)
 
@@ -237,7 +238,7 @@ BONSAI (Big Open Network for Sustainability Assessment Information) is an open p
 
 So far it contains approximaterly 300 material intensity datasets in kg/m2. This project is designed to be colaborative and should be extended to other material intensity data, e.g. for roads, infrastructure, etc. in the future. _Please consider contributing your MI data, code, or further analysis!_
 
-## <a name="Artificial Intelligence resources"></a> Artificial Intelligence resources
+## <a name="AI-resources"></a> Artificial Intelligence resources
 
 ## <a name="miscellaneous"></a> Miscellaneous 
 
